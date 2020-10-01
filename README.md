@@ -21,3 +21,5 @@ Github is the preferred way as it grants visibility to all issues reported.
 
 ### Virtual Machine
 I (Joe Minichino) created a VM for VirtualBox which allows you to skip installation steps and jump straight into action. However, I am yet to find a free storage service where to upload the 12GB file to make it freely availalble. This is currently being addressed so check to this page constantly.
+
+##End!
